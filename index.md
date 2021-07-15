@@ -5,6 +5,6 @@ Welcome to my blog. I intend to post about my ideas and projects here. My to-do 
 ## To-do list
 - Complete the fast ai course.
 - Compete in a Kaggle competition (preferably with tabular data).
-- Is it feasible to use the Theta Network to run molecular dynamics simulations ([Folding@Home](https://docs.thetatoken.org/docs/the-foldinghome-initiative))?.
+- Check the feasibility of using the Theta Network to run molecular dynamics simulations ([Folding@Home](https://docs.thetatoken.org/docs/the-foldinghome-initiative)).
 - Try to build some simple smart contracts using Solidity in Remix IDE.
 - Find and complete some simple Rust tutorials.
