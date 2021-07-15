@@ -1,7 +1,10 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Welcome to my blog. I intend to post about my ideas and projects here. My to-do list indicates what might be coming up.
 
-![Image of fast.ai logo](images/logo.png)
+![](images/B007661-R1-31-5.JPG)
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+## To-do list
+- Complete the fast ai course.
+- Compete in a Kaggle competition (preferably with tabular data).
+- Is it feasible to use the Theta Network to run molecular dynamics simulations ([Folding@Home](https://docs.thetatoken.org/docs/the-foldinghome-initiative).
+- Try to build some simple smart contracts using Solidity in Remix IDE.
+- Find and complete some simple Rust tutorials.
